@@ -1,0 +1,13 @@
+{
+  "name": "socketcluster-test",
+  "title": "Socketcluster test",
+  "description": "Testing socketcluster connection",
+  "version": "0.0.1",
+  "author": "Nathan Lunde-Berry",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "socketcluster": "^4.3.5"
+  }
+}

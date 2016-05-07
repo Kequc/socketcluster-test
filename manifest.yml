@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: voicedrop.de
+  name: socketcluster-test
+  host: socketcluster-test
+  disk_quota: 1024M
